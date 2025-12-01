@@ -26,3 +26,6 @@ The generator converts the raw YAML into structured XML and publishes the update
 ## 🎥 Latest Trailers
 You can view all generated trailers here:  
 👉 **https://georges034302.github.io/trailer-viewer/trailer.html**
+
+[Latest Trailers URL]
+You can view the trailers [here](https://georges034302.github.io/trailer-viewer/trailer.html).
